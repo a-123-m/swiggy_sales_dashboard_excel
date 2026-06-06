@@ -1,5 +1,3 @@
-# swiggy_sales_dashboard_excel
-
 # Swiggy Sales Dashboard - Excel
 
 ## Project Overview
@@ -17,6 +15,9 @@ The primary objective of this project is to monitor and analyze key business met
 * **Average Order Value (AOV)** – Average revenue earned per order
 * **Average Rating** – Average customer satisfaction rating
 * **Rating Count** – Total number of customer reviews and ratings
+
+## Dashboard
+<img src="dashboard.png">
 
 ## Dashboard Features
 
@@ -70,9 +71,3 @@ All visualizations update dynamically based on selected filters and slicers.
 * Customer ratings provide valuable insights into customer satisfaction.
 * Geographic visualizations using filled maps help identify sales distribution patterns.
 * Category-level analysis highlights major contributors to overall sales.
-
-## Dashboard Preview
-
-
-
-passionate about transforming data into meaningful insights through analytics and visualization.
